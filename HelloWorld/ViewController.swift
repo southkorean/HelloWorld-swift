@@ -11,6 +11,7 @@ class ViewController: UIViewController {
 
     @IBOutlet weak var textLabel: UILabel!
     @IBOutlet weak var clickBtn: UIButton!
+    @IBOutlet weak var text2Label: UILabel!
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
